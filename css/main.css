@@ -28,7 +28,6 @@ ul{
     color: red;
     padding: 0;
 }
-
 h1{
     color: grey;
     font-family: "Open Sans";
@@ -39,7 +38,7 @@ h1{
     text-align: right;
 }
 .offer{
-    margin-top: 145px;
+    margin-top: 120px;
 }
 .offer__span{
     color: #f23005;
@@ -50,6 +49,9 @@ h1{
 }
 .offer__span_two{
     color: white;
+}
+.offer__paragraph{
+    text-align: end;
 }
 .offer-block__button{
     font-family: "Open Sans";
@@ -100,10 +102,10 @@ h1{
     font-family: "Open Sans";
     font-size: 14px;
     font-weight: 300;
-    margin-top: 35px;
+    margin:35px 0px 0px 0px
 }
 .square_two{
-    margin-top: 23px;
+    margin-top: 125%;
 }
 .laptop{
     width: 100%;
@@ -187,6 +189,10 @@ h1{
 .section-name_two{
     text-align: end;
     margin:55% 0px 10px 0px
+}
+.section-block__paragraph{
+    font-size: 22px;
+    text-align: end;
 }
 
 /*Timer*/
